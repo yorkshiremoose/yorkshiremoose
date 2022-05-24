@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yorkshiremoose
 - 👀 I’m interested in mobile app development with AWS on the backend
-- 🌱 I’m currently learning Gatsby and React Native
-- 💞️ I’m looking to collaborate on xxx
+- 🌱 I’m currently learning React
 - 📫 My website is https://www.michaelwalterscoder.com
 
 <!---
