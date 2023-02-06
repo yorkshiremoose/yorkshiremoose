@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yorkshiremoose
-- 👀 I’m interested in mobile app development with AWS on the backend
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Michael Walters
+- 👀 I’m a Senior Consultant and Tech Lead at Infinity Works, part of Accenture
+- 🌱 Currently starting my portfolio site again, this time with 11ty (https://www.11ty.dev) 
 - 📫 My website is https://www.michaelwalterscoder.com
 
 <!---
