@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Michael Walters
-- 👀 I’m an Associate Manager and Squad Lead with Next Gen Engineering, Accenture UK & Ireland
+- 👀 I’m a Software Development Team Leader at the University of York.
